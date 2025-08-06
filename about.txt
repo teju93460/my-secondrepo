@@ -1,3 +1,4 @@
 Name: Kamavarapu Tejaswini
-Course: BCA
+Course: BCA-A
 One thing I learned about GitHub: GitHub helps in version control and team collaboration.
+
